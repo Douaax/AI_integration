@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson"
+  },
+  {
+    "id": 2,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn"
+  },
+  {
+    "id": 3,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty"
+  },
+  {
+    "id": 4,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown"
+  },
+  {
+    "id": 5,
+    "title": "In the Woods",
+    "author": "Tana French"
+  },
+  {
+    "id": 7,
+    "title": "The Silent Patient - Updated",
+    "author": "Alex Michaelides"
+  }
+]
